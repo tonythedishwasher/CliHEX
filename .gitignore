@@ -1,0 +1,7 @@
+*.o
+*.out
+*exe
+*.dylib
+
+main.dSYM/
+.DS_Store
